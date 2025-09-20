@@ -1,0 +1,23 @@
+{
+  "name": "builtbyrays-public",
+  "version": "1.0.0",
+  "description": "BuiltByRays™ - Residential Construction Services in Central Indiana",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview --port 4173",
+    "deploy": "wrangler pages deploy dist",
+    "cf:login": "wrangler login",
+    "cf:preview": "wrangler pages dev dist"
+  },
+  "devDependencies": {
+    "typescript": "^5.6.3",
+    "vite": "^5.4.20",
+    "wrangler": "^3.78.12"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}

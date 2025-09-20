@@ -1,0 +1,34 @@
+{
+    "org": "builtbyrays",
+    "siteName": "BuiltByRays™",
+    "logo": "/brand/logo.svg",
+    "favicon": "/brand/favicon.png",
+    "colors": {
+      "primary": "#065F46",
+      "primaryDark": "#064E3B",
+      "accent": "#10B981",
+      "text": "#111827",
+      "textMuted": "#475569",
+      "bg": "#FFFFFF",
+      "bgAlt": "#F8FAFC",
+      "border": "#E5E7EB"
+    },
+    "routes": {
+      "home": "/",
+      "about": "/about-us",
+      "contact": "/contact"
+    },
+    "contact": {
+      "email": "info@builtbyrays.com",
+      "phone": "+13177896362",
+      "hours": {
+        "weekdays": "8AM-6PM",
+        "weekends": "10AM-5PM"
+      },
+      "serviceArea": "Central Indiana"
+    },
+    "social": {
+      "phone": "tel:+13177896362",
+      "email": "mailto:info@builtbyrays.com"
+    }
+  }

@@ -1,0 +1,12 @@
+name = "builtbyrays-public"
+compatibility_date = "2025-01-27"
+
+[pages]
+pages_build_output_dir = "dist"
+
+# Optional: Custom domain configuration
+# [env.production]
+# routes = [
+#   { pattern = "builtbyrays.com/*", zone_name = "builtbyrays.com" },
+#   { pattern = "www.builtbyrays.com/*", zone_name = "builtbyrays.com" }
+# ]
