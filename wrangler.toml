@@ -1,5 +1,0 @@
-name = "builtbyrays-public"
-compatibility_date = "2025-01-27"
-
-[pages]
-pages_build_output_dir = "dist"
